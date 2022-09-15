@@ -1,4 +1,4 @@
-# Business Site (mob programming exercise 
+# Business Site (mob programming exercise,)
 A simple business site built in under 7 hours, using a mob-programming approach. 
 It contains a hero-image, call to action button 
 (non working - was meant to be linked to the form), 
