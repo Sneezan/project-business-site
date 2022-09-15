@@ -1,12 +1,12 @@
 # Business Site
+A simple business site built in under 7 hours, using a mob-programming approach. 
+It contains a hero-image, call to action button 
+(non working - was meant to be linked to the form), 
+a contact form and an FAQ section. 
 
-Replace this readme with your own information about your project. 
+This project was built as part of Technigo's Intro Days in our
+assigned teams.    
 
-Start by briefly describing the assignment in a sentence or two. Keep it short and to the point.
-
-## The problem
-
-Describe how you approached to problem, and what tools and techniques you used to solve it. How did you plan? What technologies did you use? If you had more time, what would be next?
 
 ## View it live
-Every project should be deployed somewhere. Be sure to include the link to the deployed project so that the viewer can click around and see what it's all about.
+View is live here https://coruscating-sopapillas-e37efd.netlify.app
